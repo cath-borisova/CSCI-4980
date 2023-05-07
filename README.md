@@ -1,0 +1,6 @@
+# CSCI-4980
+CSCI 4980: Applied Machine Learning
+
+Course Description: Machine Learning (ML) is quickly revolutionizing all aspects of our society. This course is intended to serve as an introduction to solving a broad range of practical problems using ML. We will cover important, foundational aspects of ML including classifying data, supervised vs. unsupervised learning methods, numerical regression, gradient descent, linear and non-linear regression models, neural networks, and deep learning. We will also cover related areas needed to make good practical use of Machine Learning such as loading datasets, data visualization/graphing, and ethics in ML. Course work will be a mix of in-class discussions, hands-on coding, mini-projects, and tests. Students completing the course will be ready to take on their own Machine Learning efforts, building off of their experience gathered on a large variety of ML tasks throughout the course. Example problems will draw on learning techniques for numerical, text, and image data, and will focus on problems which develop the programming and algorithmic skills needed to solve important, real-world problems with ML.
+
+This contains most of the coursework for this class. This class was entirely in Python.
